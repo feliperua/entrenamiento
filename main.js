@@ -260,4 +260,3 @@ switch(numerito){
     default:
     document.write('Ese nuemero no existe')
 }
-
